@@ -7,3 +7,9 @@ node_modules
 .data
 .env
 dist
+Maclef
+Maclef.pub
+juste1Key
+juste1Key.pub
+*.json
+*.bat
